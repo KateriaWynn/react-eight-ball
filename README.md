@@ -1,3 +1,4 @@
 # react-eight-ball
+A simulation of a classic kid’s toy, the Magic Eight Ball.
 
-Practicing React events and state.
+Praticing event handling and state in React. 
