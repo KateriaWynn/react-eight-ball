@@ -1,3 +1,3 @@
 # react-eight-ball
 
-Praticing React events and state.
+Practicing React events and state.
